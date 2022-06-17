@@ -15,5 +15,10 @@ The topic of the first Muze Developer Day is: CSS Animations and Transitions!
 - 13.30-16.00 Second round of fun developing
 - 16.00-17.00 Demonstrate work, Closing
 
+## Further (Re)sources
 
-## Further (Re)source
+[An Interactive Guide to CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/) by Josh Comeau
+- [Getting creative with keyframes ](https://www.youtube.com/watch?v=_Vrbb5BvD2Q) by Amit Sheen
+- [Animating the User Experience](https://vimeo.com/134283075?embedded=true&source=vimeo_logo&owner=5259632) by Rachel Nabors
+- [Animation & perceived performance](https://vimeo.com/163185189) by Tobias Ahlin
+- [ Choose Your Animation Adventure](https://www.youtube.com/watch?v=t6gJG_UehZ4) by Val Head 
